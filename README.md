@@ -4,6 +4,8 @@ Portfolio of **Ahmed Yahia**, web designer and digital and motion creator.
 
 **Live site: https://aipexwebstudio.web.app**
 
+![The 3D logo rolls on the site's own background, then flies into the header while the page builds around it](docs/opening.gif)
+
 A studio style portfolio built without a framework: plain HTML, CSS and JavaScript, animated with GSAP, with content, analytics and an admin panel on Firebase. It is made to feel crafted rather than templated, and to stay smooth on ordinary laptops.
 
 ## Highlights
@@ -16,6 +18,13 @@ A studio style portfolio built without a framework: plain HTML, CSS and JavaScri
 - **Firebase backend.** Hosting with a cache strategy, Realtime Database for the contact form, analytics and portfolio content added from the admin, and locked rules: only the owner can read data, and visitors can only add entries that pass validation.
 - **Admin panel** (`admin.html`). Google sign in, manage websites, films and reviews, and read contact messages.
 - **Respects the visitor.** `prefers-reduced-motion` skips the opening and the 3D spin, and if scripts fail the page falls back to a static layout.
+
+## Screenshots
+
+| | |
+|---|---|
+| ![Hero](docs/hero.jpg) | ![Stacked page with the blueprint background reacting to the pointer](docs/portals.jpg) |
+| ![Selected websites list](docs/work.jpg) | ![Footer with the spinning 3D logo](docs/footer.jpg) |
 
 ## Tech
 

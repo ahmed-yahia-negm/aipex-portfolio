@@ -1,0 +1,9 @@
+node_modules/
+.firebase/
+.env*
+.DS_Store
+*.log
+# videos are served from Firebase Hosting and kept out of the repository
+*.mp4
+*.mov
+*.webm
